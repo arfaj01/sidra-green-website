@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" fill="none">
+  <!-- Leaf Icon -->
+  <g transform="translate(10, 8)">
+    <!-- Main leaf shape -->
+    <path d="M30 60 C30 60, 5 45, 5 25 C5 10, 15 2, 30 2 C45 2, 55 10, 55 25 C55 45, 30 60, 30 60Z" fill="#1B5E20" opacity="0.9"/>
+    <!-- Leaf vein -->
+    <path d="M30 58 L30 8" stroke="#C8A45A" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M30 18 L20 12" stroke="#C8A45A" stroke-width="1" stroke-linecap="round"/>
+    <path d="M30 18 L40 12" stroke="#C8A45A" stroke-width="1" stroke-linecap="round"/>
+    <path d="M30 28 L17 20" stroke="#C8A45A" stroke-width="1" stroke-linecap="round"/>
+    <path d="M30 28 L43 20" stroke="#C8A45A" stroke-width="1" stroke-linecap="round"/>
+    <path d="M30 38 L15 30" stroke="#C8A45A" stroke-width="1" stroke-linecap="round"/>
+    <path d="M30 38 L45 30" stroke="#C8A45A" stroke-width="1" stroke-linecap="round"/>
+    <path d="M30 48 L18 40" stroke="#C8A45A" stroke-width="1" stroke-linecap="round"/>
+    <path d="M30 48 L42 40" stroke="#C8A45A" stroke-width="1" stroke-linecap="round"/>
+    <!-- Water drop at bottom -->
+    <ellipse cx="30" cy="64" rx="4" ry="5" fill="#C8A45A" opacity="0.7"/>
+  </g>
+  <!-- Arabic Text -->
+  <text x="80" y="38" font-family="'IBM Plex Sans Arabic', 'Noto Sans Arabic', Arial" font-size="26" font-weight="700" fill="#1B5E20" letter-spacing="1">سدرة</text>
+  <text x="80" y="62" font-family="'IBM Plex Sans Arabic', 'Noto Sans Arabic', Arial" font-size="18" font-weight="400" fill="#C8A45A" letter-spacing="3">جـريـن</text>
+  <!-- Divider line -->
+  <line x1="175" y1="18" x2="175" y2="65" stroke="#C8A45A" stroke-width="0.8" opacity="0.5"/>
+  <!-- English Text -->
+  <text x="188" y="38" font-family="'Playfair Display', Georgia, serif" font-size="20" font-weight="700" fill="#1B5E20" letter-spacing="2">SIDRA</text>
+  <text x="188" y="58" font-family="'Playfair Display', Georgia, serif" font-size="14" font-weight="400" fill="#C8A45A" letter-spacing="4">GREEN</text>
+</svg>
